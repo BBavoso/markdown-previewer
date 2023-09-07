@@ -22,3 +22,7 @@
 #preview {
     padding: 20px;
 }
+
+#preview img {
+    max-width: 100%;
+}
