@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+#editor {
+    resize: none;
+    display: block;
+    min-width: 60vw;
+    min-height: 200px;
+    margin: 100px auto;
+}
+
+#preview {
+    border: 1px solid black;
+    width: 80vw;
+    margin: auto;
+    min-height: 200px;
+    margin-bottom: 100px;
+}
+
+#editor,
+#preview {
+    padding: 20px;
+}
